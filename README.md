@@ -3,6 +3,22 @@ A light-weight wrapper for impure code
 
 > Checkout: https://github.com/attack-monkey/Lean-Functional-Typescript
 
+# Install
+
+```
+
+npm i @attack-monkey/impure
+
+```
+
+# Use
+
+```
+
+import { impure } from '@attack-monkey/impure'
+
+```
+
 Impure Code
 ===========
 
