@@ -1,0 +1,29 @@
+{
+  "name": "@attack-monkey/impure",
+  "version": "1.0.0",
+  "description": "A light-weight wrapper for managing impure code",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/attack-monkey/impure.git"
+  },
+  "keywords": [
+    "functional",
+    "fp",
+    "impure",
+    "io"
+  ],
+  "author": "attack-monkey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/attack-monkey/impure/issues"
+  },
+  "homepage": "https://github.com/attack-monkey/impure#readme",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
